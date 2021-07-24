@@ -357,7 +357,7 @@
         "variable",
       ],
       "settings": {
-        "foreground": "#e7e7e7",
+        "foreground": "#FFFFFF",
         "fontStyle": ""
       }
     },
@@ -368,7 +368,7 @@
         "support.function", // function call
       ],
       "settings": {
-        "foreground": "#e7e7e7",
+        "foreground": "#FFFFFF",
         "fontStyle": ""
       }
     },
